@@ -77,3 +77,4 @@ o que foi feito a mais ou diferente:
 - atualiza e deleta pelo id e não pela data de nascimento
 - uso do insominia para realizar requisições api
 
+proximo passo - criação do front
